@@ -4,3 +4,4 @@ for x in range(int(input())):
 n.sort()
 for x in n:
     print(x)
+
